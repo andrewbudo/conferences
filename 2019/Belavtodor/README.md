@@ -3,6 +3,7 @@
 
 ## Список материалов
 
-* [Программа конференции](https://github.com/andrewbudo/conferences/blob/master/2019/Belavtodor/Conferecnce_program(Konf_04_19_Leon).pdf) 
-* [Презентация](https://github.com/andrewbudo/conferences/blob/master/2019/Belavtodor/Presentation_Budo_Transcor3.0.pdf) 
+* [Программа конференции](https://github.com/andrewbudo/conferences/blob/master/2019/Belavtodor/Program/Conferecnce_program(Konf_04_19_Leon).pdf) 
+* [Презентация](https://github.com/andrewbudo/conferences/blob/master/2019/Belavtodor/Presentation/Presentation_Budo_Transcor3.0.pdf) 
+* [Доклад](https://github.com/andrewbudo/conferences/blob/master/2019/Belavtodor/Report/Будо.Доклад.pdf) 
 
